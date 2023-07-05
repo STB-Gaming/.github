@@ -12,11 +12,11 @@
 
 # INTERACTION
 * mute - n/a
-* i - f
+* i - g
 * Vol+ - n/a
 * Vol-  - n/a
 * Direction Buttons - Arrow Keys /  I J K L
-* Select - Space / Entr
+* Select - Space / Enter
 * Ch+ - Page Up
 * Ch- - Page Down
 * BackUp - BackSpace
