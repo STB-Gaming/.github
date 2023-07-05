@@ -23,10 +23,10 @@
 * Help - t
 
 # Colours
-RED - q
-GREEN - w
-YELLOW - e
-BLUE - r
+* RED - q
+* GREEN - w
+* YELLOW - e
+* BLUE - r
 
 # Numbers
-Numbers - Number row on keyboard
+* Numbers - Number row on keyboard
